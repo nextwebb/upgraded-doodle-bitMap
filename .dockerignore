@@ -1,0 +1,18 @@
+
+# Project ignores
+.vscode
+
+# Dependency directories
+node_modules/
+
+coverage/
+
+# Node Version Manager
+.nvmrc
+
+# Yarn
+yarn-error.log
+
+initdb/
+.redis/
+.ebextensions/
