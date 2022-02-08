@@ -8,5 +8,4 @@ coverage/
 .local/
 .DS_Store
 package-lock.json
-prisma/schema.prisma
 yarn.lock
